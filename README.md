@@ -2,7 +2,7 @@
 </h1>
   🇮🇳 defence_alpha 🇮🇳
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Alpha+Bot+!)
 
 
 !! credit Goes To .(@defencesquad1)_(https://t.me/defencesquad1)
