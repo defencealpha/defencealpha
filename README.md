@@ -5,7 +5,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 
-!! credit Goes To .(@defencesquid1)_(https://t.me/defencesquid1)
+!! credit Goes To .(@defencesquad1)_(https://t.me/defencesquad1)
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
