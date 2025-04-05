@@ -9,7 +9,7 @@
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/ALPHA**:  📁 upload txt file.
+- **`/defence**:  📁 upload txt file.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
 - **`/cookies`**: 🍪 upload cookies file.
